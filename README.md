@@ -1,18 +1,19 @@
 # feedback
 feedback for all of my modpacks!
 
-#HOW TO REPORT ISSUES. READ HERE:
-I will ensure that all my modpacks have openeye. which sends crashlytics to it's servers. compy that link and create an issue here.
 
-#format
-Type of issue
-openEye link
-NOTE: for the title of the issue. write it like this
-Issue,Modpack,version,type
-----
-Example:
-Issue:bug
-http://openeye.openmods.info
-----
-Title:
-game crashes when XXX happens.Unchained modpack,V1.2,Bug.
+#If you want to report a bug:
+Include the modpack and version.
+Include a openeye link to the crashlog.
+Be descriptive.
+Be respectful.
+Use proper grammar and spelling.
+If you can't do the above, please do not report any bugs.
+Notabene! : google translate is allowed. (no weird chinese or french languages.
+
+#If you want me to added a feature:
+State what type of feature.
+and if possible add reason (optional) as some things a quite self explanatory.
+Be respectful.
+Use proper grammar and spelling.
+If you cannot do the above, please do not suggest any features.
