@@ -17,3 +17,7 @@ and if possible add reason (optional) as some things a quite self explanatory.
 Be respectful.
 Use proper grammar and spelling.
 If you cannot do the above, please do not suggest any features.
+
+
+#Credits
+CoFH ,King lemming etc etc... for the feedback thingy
