@@ -20,7 +20,10 @@ If you cannot do the above, please do not suggest any features.
 
 #Some nicks(shortform)
 WfR = waiting for reply
+
 F&U = Fixed and updated
+
 (maybe add some more)
+
 #Credits
 CoFH ,King lemming etc etc... for the feedback thingy
