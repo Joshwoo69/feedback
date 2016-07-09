@@ -16,14 +16,8 @@ State what type of feature.
 and if possible add reason (optional) as some things a quite self explanatory.
 Be respectful.
 Use proper grammar and spelling.
+Only English no Russian/German.
 If you cannot do the above, please do not suggest any features.
-
-#Some nicks(shortform)
-WfR = waiting for reply
-
-F(lorine)&U(ranium) = Fixed and updated
-
-(maybe add some more)
 
 #Credits
 CoFH ,King lemming etc etc... for the feedback thingy
